@@ -53,8 +53,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdrzanouriyani&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdrzanouriyani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzanouriyani&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhmdrzanouriyani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
