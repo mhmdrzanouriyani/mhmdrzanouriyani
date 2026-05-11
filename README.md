@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-- 🎓 **Computer Engineering Student** — 24 y/o, based in **Turkey 🇹🇷**
+- 🎓 **Computer Engineering Student** — 25 y/o, based in **Turkey 🇹🇷**
 - 🔨 I build real tools — downloaders, syntax highlighters, VPN panels, automation scripts
 - 🌐 Hands-on **Cisco networking** experience (routing, switching, VPN)
 - 🤖 Passionate about **Python automation** and **AI tools**
