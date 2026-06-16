@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=240&section=header&text=Mohammadreza%20Nouriyani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Engineer%20|%20Content%20Creator&descAlignY=58&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=Mohammadreza%20Nouriyani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Content%20Creator&descAlignY=58" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer;AI+Engineer;Content+Creator;Linux+Enthusiast;Network+Engineer;Building+Useful+Software;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Python+Developer;AI+Engineer;Content+Creator;Linux+%26+Network+Engineer;Open+Source+Enthusiast;Building+Useful+Software;Always+Learning+New+Things" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mhmdrzanouriyani&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdrzanouriyani&theme=tokyonight" />
 
 </div>
 
@@ -30,29 +42,29 @@
 
 ### 💻 Languages
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
 
-</p>
+</div>
 
 ### ⚙️ Frameworks & Tools
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flask,django,fastapi,linux,docker,git,github,vscode,mysql,bash" />
 
-</p>
+</div>
 
 ### 🌐 Networking & Security
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 <img src="https://img.shields.io/badge/VPN-Engineering-4CAF50?style=for-the-badge&logo=wireguard&logoColor=white" />
 
-</p>
+</div>
 
 ---
 
@@ -64,6 +76,7 @@
 - Linux Servers
 - Network Security
 - Open Source Projects
+- AI-Powered Applications
 
 ---
 
@@ -78,6 +91,16 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhmdrzanouriyani&theme=algolia&no-frame=true&margin-w=15&row=1" />
+
+</div>
+
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -86,7 +109,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzanouriyani&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=mhmdrzanouriyani&theme=tokyonight&hide_border=true" />
 
@@ -108,7 +131,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mhmdrzanouriyani/mhmdrzanouriyani/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -138,14 +161,22 @@
 
 ---
 
+# 💭 Random Developer Quote
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mhmdrzanouriyani&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-
-<br><br>
-
-### 💙 Always Learning • Always Building • Always Sharing
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=120&section=footer" />
+---
+
+<div align="center">
+
+## 💙 Always Learning • Always Building • Always Sharing
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=gradient&customColorList=12,20,24,25,30&animation=twinkling" />
+
+</div>
