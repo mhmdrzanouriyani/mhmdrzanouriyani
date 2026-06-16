@@ -1,14 +1,17 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Mohammadreza%20Nouriyani&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Content%20Creator&descAlignY=58&descColor=ffffff" />
+<img width="100%" alt="Profile header" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Mohammadreza%20Nouriyani&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Content%20Creator&descAlignY=58&descColor=ffffff" />
 
-<br>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Mohammadreza+Nouriyani;Python+Developer;AI+Engineer;Content+Creator;Linux+%26+Network+Engineer;Open+Source+Enthusiast;Building+Useful+Software+Every+Day;Always+Learning+New+Technologies" />
+<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Mohammadreza+Nouriyani;Python+Developer;AI+Engineer;Content+Creator;Linux+%26+Network+Engineer;Open+Source+Enthusiast;Building+Useful+Software+Every+Day;Always+Learning+New+Technologies" />
 
-<br>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=mhmdrzanouriyani&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=mhmdrzanouriyani&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mhmdrzanouriyani?label=Followers&style=for-the-badge&color=00F7FF&logo=github" />
+<img alt="Stars" src="https://img.shields.io/github/stars/mhmdrzanouriyani?label=Stars&style=for-the-badge&color=00F7FF&logo=github" />
 
 </div>
 
@@ -16,121 +19,146 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdrzanouriyani&theme=tokyonight" />
+<img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdrzanouriyani&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About me
 
 ```python
 class MohammadrezaNouriyani:
-
     def __init__(self):
         self.role = [
             "Python Developer",
             "AI Engineer",
-            "Content Creator"
+            "Content Creator",
         ]
-
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Linux",
             "Networking",
-            "Open Source"
+            "Open Source",
         ]
-
         self.current_focus = [
             "AI Applications",
             "Python Automation",
             "Network Security",
-            "Linux Servers"
+            "Linux Servers",
         ]
 ```
 
 ---
 
-# ⚡ Tech Stack
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,flask,django,fastapi,linux,docker,git,github,vscode,mysql,bash" />
+<img alt="Skills" src="https://skillicons.dev/icons?i=python,c,js,html,css,flask,django,fastapi,linux,docker,git,github,vscode,mysql,bash&perline=8" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## GitHub achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhmdrzanouriyani&theme=algolia&no-frame=true&row=1&column=7" />
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=mhmdrzanouriyani&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+## Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmdrzanouriyani&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mhmdrzanouriyani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzanouriyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdrzanouriyani&layout=compact&theme=tokyonight&hide_border=true" />
+<br /><br />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=mhmdrzanouriyani&theme=tokyonight&hide_border=true" />
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=mhmdrzanouriyani&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 3D contribution landscape
+
+<p align="center">
+  <b>Isometric 3D calendar (animated)</b><br />
+  <sub>Generated by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> — run the workflow in this repo after copying <code>.github/workflows/profile-3d-contrib.yml</code>.</sub>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdrzanouriyani&theme=tokyo-night&hide_border=true" />
+| Season (animated) | Night rainbow |
+| :---: | :---: |
+| <img width="420" alt="3D contributions season animated" src="./profile-3d-contrib/profile-season-animate.svg" /> | <img width="420" alt="3D contributions night rainbow" src="./profile-3d-contrib/profile-night-rainbow.svg" /> |
+
+| Git-block style | Green (animated) |
+| :---: | :---: |
+| <img width="420" alt="3D git block" src="./profile-3d-contrib/profile-gitblock.svg" /> | <img width="420" alt="3D green animated" src="./profile-3d-contrib/profile-green-animate.svg" /> |
+
+</div>
+
+<details>
+<summary><b>Prefer a single hero image?</b> Use one of these lines in your README instead of the table.</summary>
+
+```md
+<p align="center">
+  <img width="95%" alt="3D GitHub contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+```
+
+</details>
+
+---
+
+## Contribution activity
+
+<div align="center">
+
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdrzanouriyani&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Syntax Highlighter
+### Syntax highlighter
 
 Real-time lexer, parser and GUI editor.
 
 </td>
-
 <td width="50%">
 
-### 🎬 YouTube Downloader
+### YouTube downloader
 
 Download videos in highest quality.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 📸 Instagram Downloader
+### Instagram downloader
 
 Download media from public profiles.
 
 </td>
-
 <td width="50%">
 
-### 🧠 Python Quiz App
+### Python quiz app
 
 Interactive programming quiz.
 
@@ -140,59 +168,48 @@ Interactive programming quiz.
 
 ---
 
-# 🤖 Current Focus
+## Current focus
 
 <div align="center">
 
 | AI | Backend | Linux | Networking |
-|----|----------|--------|------------|
-| Machine Learning | FastAPI | VPS Management | Cisco |
+| :---: | :---: | :---: | :---: |
+| Machine Learning | FastAPI | VPS management | Cisco |
 | Automation | Flask | Docker | VPN |
-| AI Agents | Django | Ubuntu | Security |
+| AI agents | Django | Ubuntu | Security |
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mhmdrzanouriyani/mhmdrzanouriyani/output/github-contribution-grid-snake-dark.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/mhmdrzanouriyani/mhmdrzanouriyani/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 🌎 Connect With Me
+## Connect
 
 <div align="center">
 
-<a href="https://www.youtube.com/@Mohixcode">
-<img src="https://img.shields.io/badge/YOUTUBE-MOHIXCODE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/mohix_code">
-<img src="https://img.shields.io/badge/INSTAGRAM-MOHIX_CODE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohammadreza-nouriyani-5b2919245">
-<img src="https://img.shields.io/badge/LINKEDIN-MOHAMMADREZA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/mhmdrzanouriyani">
-<img src="https://img.shields.io/badge/GITHUB-MHMDRZANOURIYANI-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/@Mohixcode"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-MOHIXCODE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/mohix_code"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-MOHIX_CODE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammadreza-nouriyani-5b2919245"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-MOHAMMADREZA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mhmdrzanouriyani"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-MHMDRZANOURIYANI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-# 💭 Developer Quote
+## Developer quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -200,8 +217,8 @@ Interactive programming quiz.
 
 <div align="center">
 
-## 💙 Always Learning • Always Building • Always Sharing
+### Always learning · Always building · Always sharing
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,24,25,30" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,24,25,30" />
 
 </div>
