@@ -1,0 +1,42 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # daily, 00:00 UTC
+  workflow_dispatch:         # manual "Run workflow" button
+  push:
+    paths:
+      - "scripts/**"         # regenerate when you edit the config
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Aurora cards -> ./assets/*.svg  (no dependencies, stdlib only)
+      - name: Generate aurora cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_cards.py
+
+      # 3D isometric contribution graph -> ./profile-3d-contrib/*.svg
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets profile-3d-contrib
+          git commit -m "chore: refresh profile cards" || echo "No changes"
+          git push
